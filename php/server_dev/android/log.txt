@@ -1,0 +1,272 @@
+[2014/03/03 03:11:30]
+[2014/03/03 03:11:40]111
+[2014/03/03 03:12:42]1/2/3/4/5/a/jpg
+[2014/03/03 03:12:42]jpg
+[2014/03/03 03:17:02]1/2/3/4/5/a/return.jpj
+[2014/03/03 03:17:02]return.jpj
+[2014/03/03 03:17:02]file NOT exists
+[2014/03/03 03:17:09]1/2/3/4/5/a/return.jpg
+[2014/03/03 03:17:09]return.jpg
+[2014/03/03 03:17:09]file find
+[2014/03/03 03:17:40]1/2/3/4/5/a/return.jpg
+[2014/03/03 03:17:40]return.jpg
+[2014/03/03 03:17:40]/det/return.jpg file find
+[2014/03/03 03:18:00]'file:///storage/sdcard/Pictures/return.jpg'
+[2014/03/03 03:18:00]return.jpg'
+[2014/03/03 03:18:00]file NOT exists
+[2014/03/03 03:18:45]file:///storage/sdcard/Pictures/return.jpg
+[2014/03/03 03:18:45]return.jpg
+[2014/03/03 03:18:45]/det/return.jpg file find
+[2014/03/03 03:19:56]file:///storage/sdcard/Pictures/return.jpg
+[2014/03/03 03:19:56]return.jpg
+[2014/03/03 03:19:56]/det/return.jpg file find
+[2014/03/03 03:20:22]file:///storage/sdcard/Pictures/return.jpg
+[2014/03/03 03:20:22]return.jpg
+[2014/03/03 03:20:22]/det/return.jpg file find
+[2014/03/03 03:21:42]file:///storage/sdcard/Pictures/return.jpg
+[2014/03/03 03:21:42]return.jpg
+[2014/03/03 03:21:42]/det/return.jpg file exists
+[2014/03/03 03:21:52]file:///storage/sdcard/Pictures/return.jpg
+[2014/03/03 03:21:52]return.jpg
+[2014/03/03 03:21:52]/det/return.jpg file exists
+[2014/03/03 03:23:15]
+[2014/03/03 03:23:15]
+[2014/03/03 03:23:15]file NOT exists
+[2014/03/03 03:24:49]file:///storage/sdcard/Pictures/return.jpg
+[2014/03/03 03:24:49]return.jpg
+[2014/03/03 03:24:49]/det/return.jpg file exists
+[2014/03/03 03:24:51]file:///storage/sdcard/Pictures/return.jpg
+[2014/03/03 03:24:51]return.jpg
+[2014/03/03 03:24:51]/det/return.jpg file exists
+[2014/03/03 03:25:18]/sdcard/Pictures/return.jpg
+[2014/03/03 03:25:18]return.jpg
+[2014/03/03 03:25:18]/det/return.jpg file exists
+[2014/03/03 03:28:38]/sdcard/Pictures/return.jpg
+[2014/03/03 03:28:38]return.jpg
+[2014/03/03 03:28:38]/det/return.jpg file exists
+[2014/03/03 03:29:09]/sdcard/Pictures/return.jpg
+[2014/03/03 03:29:09]return.jpg
+[2014/03/03 03:29:09]/det/return.jpg file exists
+[2014/03/03 03:31:14]/sdcard/Pictures/return.jpg
+[2014/03/03 03:31:14]return.jpg
+[2014/03/03 03:31:14]/det/return.jpg file exists
+[2014/03/03 03:31:14]return.jpg file exists
+[2014/03/03 03:31:34]/sdcard/Pictures/return.jpg
+[2014/03/03 03:31:34]return.jpg
+[2014/03/03 03:31:34]/det/return.jpg file exists
+[2014/03/03 03:31:53]/sdcard/Pictures/return.jpg
+[2014/03/03 03:31:53]return.jpg
+[2014/03/03 03:31:53]/det/return.jpg file exists
+[2014/03/03 03:32:55]/sdcard/Pictures/return.jpg
+[2014/03/03 03:32:55]return.jpg
+[2014/03/03 03:32:55]/det/return.jpg file exists
+[2014/03/03 03:33:09]/sdcard/Pictures/return.jpg
+[2014/03/03 03:33:09]return.jpg
+[2014/03/03 03:33:09]/det/return.jpg file exists
+[2014/03/03 03:33:44]/sdcard/Pictures/return.jpg
+[2014/03/03 03:33:44]return.jpg
+[2014/03/03 03:33:44]/det/return.jpg file exists
+[2014/03/03 03:33:44]return.jpg file exists
+[2014/03/03 03:34:09]/sdcard/Pictures/return.jpg
+[2014/03/03 03:34:09]return.jpg
+[2014/03/03 03:34:09]/det/return.jpg file exists
+[2014/03/03 03:34:09]return.jpg file exists
+[2014/03/03 03:35:33]return.jpg file exists
+[2014/03/03 03:36:12]return.jpg file exists
+[2014/03/03 03:36:39]return.jpg file exists
+[2014/03/03 03:36:58]return.jpg file exists
+[2014/03/03 03:38:55]return.jpg file exists
+[2014/03/04 02:02:30]file NOT exists
+[2014/03/04 02:04:11]file IMG_20140304_140237.jpgNOT exists
+[2014/03/04 02:10:35]IMG_20140304_140237.jpg file exists
+[2014/03/04 02:11:07]file IMG_20140304_141113.jpg NOT exists
+[2014/03/04 02:11:19]IMG_20140304_141113.jpg file exists
+[2014/03/04 02:11:51]file IMG_20140304_141157.jpg NOT exists
+[2014/03/04 02:12:04]IMG_20140304_141157.jpg file exists
+[2014/03/04 02:12:26]file IMG_20140304_141232.jpg NOT exists
+[2014/03/04 02:25:07]IMG_20140304_142514.jpg file exists
+[2014/03/04 02:31:01]IMG_20140304_143108.jpg file exists
+[2014/03/05 02:36:13]IMG_20140305_143620.jpg file exists
+[2014/03/05 02:36:19]file 1.jpg NOT exists
+[2014/03/05 02:37:33]IMG_20140305_143739.jpg file exists
+[2014/03/05 02:37:39]file 1.jpg NOT exists
+[2014/03/05 02:44:08]IMG_20140305_144416.jpg file exists
+[2014/03/05 02:44:13]1.jpg file exists
+[2014/03/05 02:44:22]2.jpg file exists
+[2014/03/05 02:44:27]3.jpg file exists
+[2014/03/05 02:44:39]10.jpg file exists
+[2014/03/05 03:02:41]IMG_20140305_150247.jpg file exists
+[2014/03/05 03:02:41]file IMG_20140305_150247.jpg NOT exists
+[2014/03/05 03:05:18]file IMG_20140305_150247.jpg NOT exists
+[2014/03/05 03:07:44]file IMG_20140305_150247.jpg NOT exists
+[2014/03/05 03:08:18]file IMG_20140305_150247.jpg NOT exists
+[2014/03/05 03:09:25]file IMG_20140305_150247.jpg NOT exists
+[2014/03/05 03:09:34]IMG_20140305_150941.jpg file exists
+[2014/03/05 03:09:34]IMG_20140305_150941.jpg file exists
+[2014/03/05 03:12:28]IMG_20140305_151235.jpg file exists
+[2014/03/05 03:12:28]IMG_20140305_151235.jpg file exists
+[2014/03/05 03:14:10]IMG_20140305_151417.jpg file exists
+[2014/03/05 03:14:10]IMG_20140305_151417.jpg file exists
+[2014/03/05 03:14:16]1.jpg file exists
+[2014/03/05 03:27:24]IMG_20140305_152730.jpg file exists
+[2014/03/05 03:27:24]IMG_20140305_152730.jpg file exists
+[2014/03/06 11:39:10]file IMG_20140306_114005.jpg NOT exists
+[2014/03/06 11:45:56]file IMG_20140306_114650.jpg NOT exists
+[2014/03/06 11:48:45]file IMG_20140306_114942.jpg NOT exists
+[2014/03/06 11:53:20]file IMG_20140306_114942.jpg NOT exists
+[2014/03/06 11:56:41]file IMG_20140306_115736.jpg NOT exists
+[2014/03/06 11:57:13]file IMG_20140306_115736.jpg NOT exists
+[2014/03/06 11:59:32]command entered
+[2014/03/06 11:59:32]IMG_20140306_115736.jpg file exists
+[2014/03/06 11:59:32]IMG_20140306_115736.jpg file exists
+[2014/03/06 12:00:51]file IMG_20140306_120149.jpg NOT exists
+[2014/03/06 12:05:35]file IMG_20140306_120149.jpg NOT exists
+[2014/03/06 12:06:32]file IMG_20140306_120149.jpg NOT exists
+[2014/03/06 12:07:05]python /var/www/facedetect.py uploads/IMG_20140306_120149.jpg det/IMG_20140306_120149.jpg crop/IMG_20140306_120149.jpg
+[2014/03/06 12:07:05]IMG_20140306_120149.jpg file exists
+[2014/03/06 12:07:05]IMG_20140306_120149.jpg file exists
+[2014/03/06 12:07:07]IMG_20140306_120149.jpg file exists
+[2014/03/06 12:07:07]python /var/www/facedetect.py uploads/IMG_20140306_120149.jpg det/IMG_20140306_120149.jpg crop/IMG_20140306_120149.jpg
+[2014/03/06 12:07:07]IMG_20140306_120149.jpg file exists
+[2014/03/06 12:08:56]python /var/www/facedetect.py /uploads/IMG_20140306_120954.jpg /det/IMG_20140306_120954.jpg /crop/IMG_20140306_120954.jpg
+[2014/03/06 12:08:56]IMG_20140306_120954.jpg file exists
+[2014/03/06 12:08:56]IMG_20140306_120954.jpg file exists
+[2014/03/06 12:10:56]output:
+[2014/03/06 12:10:56]file IMG_20140306_121154.jpg NOT exists
+[2014/03/06 12:10:56]file IMG_20140306_121154.jpg NOT exists
+[2014/03/06 12:11:34]output:
+[2014/03/06 12:11:34]file return.jpg NOT exists
+[2014/03/06 12:14:43]file IMG_20140306_121154.jpg NOT exists
+[2014/03/06 12:14:44]output:[(154,70) -> (377,293)]
+
+[2014/03/06 12:14:44]IMG_20140306_121154.jpg file exists
+[2014/03/06 12:17:28]file IMG_20140306_121826.jpg NOT exists
+[2014/03/06 12:17:29]output:[(154,70) -> (377,293)]
+
+[2014/03/06 12:17:29]IMG_20140306_121826.jpg file exists
+[2014/03/06 12:23:19]file IMG_20140306_122417.jpg NOT exists
+[2014/03/06 12:23:19]output:[(154,70) -> (377,293)]
+
+[2014/03/06 12:23:19]file IMG_20140306_122417.jpg NOT exists
+[2014/03/06 12:26:15]file IMG_20140306_122714.jpg NOT exists
+[2014/03/06 12:26:16]output:[(154,70) -> (377,293)]
+
+[2014/03/06 12:26:16]IMG_20140306_122714.jpg file exists
+[2014/03/06 12:50:43]IMG_20140306_122714.jpg file exists
+[2014/03/06 12:55:58]file IMG_20140306_125655.jpg NOT exists
+[2014/03/06 12:55:59]output:[(154,70) -> (377,293)]
+
+[2014/03/06 12:55:59]IMG_20140306_125655.jpg file exists
+[2014/03/06 01:03:29]file IMG_20140306_130418.jpg NOT exists
+[2014/03/06 01:03:30]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:03:30]IMG_20140306_130418.jpg file exists
+[2014/03/06 01:06:53]file IMG_20140306_130748.jpg NOT exists
+[2014/03/06 01:06:53]file IMG_20140306_130748.jpg NOT exists
+[2014/03/06 01:08:01]file IMG_20140306_130859.jpg NOT exists
+[2014/03/06 01:08:01]file IMG_20140306_130859.jpg NOT exists
+[2014/03/06 01:14:30]file IMG_20140306_131528.jpg NOT exists
+[2014/03/06 01:14:30]file IMG_20140306_131528.jpg NOT exists
+[2014/03/06 01:14:35]file IMG_20140306_131528.jpg NOT exists
+[2014/03/06 01:14:35]file IMG_20140306_131528.jpg NOT exists
+[2014/03/06 01:14:47]file return.jpg NOT exists
+[2014/03/06 01:16:08]file IMG_20140306_131528.jpg NOT exists
+[2014/03/06 01:16:08]file IMG_20140306_131528.jpg NOT exists
+[2014/03/06 01:16:26]file IMG_20140306_131724.jpg NOT exists
+[2014/03/06 01:16:26]file IMG_20140306_131724.jpg NOT exists
+[2014/03/06 01:16:50]file IMG_20140306_131724.jpg NOT exists
+[2014/03/06 01:16:50]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:16:50]IMG_20140306_131724.jpg file exists
+[2014/03/06 01:23:05]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:23:05]IMG_20140306_132403.jpg file exists
+[2014/03/06 01:23:06]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:23:06]IMG_20140306_132403.jpg file exists
+[2014/03/06 01:23:07]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:23:07]IMG_20140306_132403.jpg file exists
+[2014/03/06 01:26:16]output:
+[2014/03/06 01:26:16]file IMG_20140306_132712.jpg NOT exists
+[2014/03/06 01:26:16]output:
+[2014/03/06 01:26:16]file IMG_20140306_132712.jpg NOT exists
+[2014/03/06 01:26:17]output:
+[2014/03/06 01:26:17]file IMG_20140306_132712.jpg NOT exists
+[2014/03/06 01:30:19]output:
+[2014/03/06 01:30:19]file IMG_20140306_133114.jpg NOT exists
+[2014/03/06 01:30:19]output:
+[2014/03/06 01:30:19]file IMG_20140306_133114.jpg NOT exists
+[2014/03/06 01:30:19]output:
+[2014/03/06 01:30:19]file IMG_20140306_133114.jpg NOT exists
+[2014/03/06 01:33:31]output:
+[2014/03/06 01:33:31]IMG_20140306_133429.jpg file exists
+[2014/03/06 01:33:31]file IMG_20140306_133429.jpg NOT exists
+[2014/03/06 01:33:32]output:
+[2014/03/06 01:33:32]file IMG_20140306_133429.jpg NOT exists
+[2014/03/06 01:33:33]output:
+[2014/03/06 01:33:33]file IMG_20140306_133429.jpg NOT exists
+[2014/03/06 01:44:32]output:
+[2014/03/06 01:44:32]IMG_20140306_134529.jpg file exists
+[2014/03/06 01:44:32]file IMG_20140306_134529.jpg NOT exists
+[2014/03/06 01:44:32]output:
+[2014/03/06 01:44:32]file IMG_20140306_134529.jpg NOT exists
+[2014/03/06 01:44:33]output:
+[2014/03/06 01:44:33]file IMG_20140306_134529.jpg NOT exists
+[2014/03/06 01:45:45]output:
+[2014/03/06 01:45:45]IMG_20140306_134643.jpg file exists
+[2014/03/06 01:45:45]file IMG_20140306_134643.jpg NOT exists
+[2014/03/06 01:45:46]output:
+[2014/03/06 01:45:46]file IMG_20140306_134643.jpg NOT exists
+[2014/03/06 01:46:09]output:
+[2014/03/06 01:46:09]file IMG_20140306_134643.jpg NOT exists
+[2014/03/06 01:47:28]output:
+[2014/03/06 01:47:28]file IMG_20140306_134824.jpg NOT exists
+[2014/03/06 01:47:29]output:
+[2014/03/06 01:47:29]file IMG_20140306_134824.jpg NOT exists
+[2014/03/06 01:58:05]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:58:05]IMG_20140306_135902.jpg file exists
+[2014/03/06 01:58:05]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:58:05]IMG_20140306_135902.jpg file exists
+[2014/03/06 01:58:06]output:[(154,70) -> (377,293)]
+
+[2014/03/06 01:58:06]IMG_20140306_135902.jpg file exists
+[2014/03/07 10:41:46]output:[(154,70) -> (377,293)]
+
+[2014/03/07 10:41:46]IMG_20140307_104225.jpg file exists
+[2014/03/07 10:41:46]output:[(154,70) -> (377,293)]
+
+[2014/03/07 10:41:46]IMG_20140307_104225.jpg file exists
+[2014/03/07 10:41:48]output:[(154,70) -> (377,293)]
+
+[2014/03/07 10:41:48]IMG_20140307_104225.jpg file exists
+[2014/03/07 10:41:48]output:[(154,70) -> (377,293)]
+
+[2014/03/07 10:41:48]IMG_20140307_104225.jpg file exists
+[2014/03/07 10:42:36]3.jpg file exists
+[2014/03/13 03:19:36]output:
+[2014/03/13 03:19:36]file IMG_20140313_151915.jpg NOT exists
+[2014/03/13 03:19:36]output:
+[2014/03/13 03:19:36]file IMG_20140313_151915.jpg NOT exists
+[2014/03/13 03:29:59]output:
+[2014/03/13 03:29:59]file IMG_20140313_152943.jpg NOT exists
+[2014/03/13 03:29:59]output:
+[2014/03/13 03:29:59]file IMG_20140313_152943.jpg NOT exists
+[2014/03/13 03:47:36]output:
+[2014/03/13 03:47:36] file exists
+[2014/03/13 03:47:36]output:
+[2014/03/13 03:47:36] file exists
+[2014/03/13 03:51:51]output:
+[2014/03/13 03:51:51] file exists
+[2014/03/13 03:51:51]output:
+[2014/03/13 03:51:51] file exists
+[2014/03/13 03:59:03]output:
+[2014/03/13 03:59:03] file exists
+[2014/03/13 03:59:04]output:
+[2014/03/13 03:59:04] file exists
+[2014/03/13 04:02:45]output:
+[2014/03/13 04:02:45] file exists
+[2014/03/13 04:02:46]output:
+[2014/03/13 04:02:46] file exists
