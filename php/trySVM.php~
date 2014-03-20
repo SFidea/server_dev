@@ -1,0 +1,37 @@
+<?php
+
+  $svm_folder="/home/user/Desktop/libsvm/libsvm/";
+  $svm_model_folder="/home/user/Desktop/libsvm/libsvm/";
+  $svm_data_folder="/home/user/Desktop/libsvm/libsvm/";
+  $svm_output_folder="/home/user/Desktop/libsvm/libsvm/";
+  
+  $model_name="heart_scale.model";
+  $output_name="output_file";
+  $data_name="heart_scale";
+
+
+//$filename=$i_image_folder . $_GET["name"] . '.jpg';
+  
+  //if (file_exists($svm_model_folder.$model_name) 
+  //    and file_exists($svm_data_folder.$data_name)){
+    //$cmd= $svm_folder. 'svm-predict ' .$svm_data_folder.$data_name .' '.$svm_model_folder.$model_name .' '. $svm_output_folder.$output_name;
+    
+    $cmd= $svm_folder. 'svm-train -t 0 ' .$svm_data_folder.$data_name;
+
+    echo $cmd;
+    $shell_output = shell_exec($cmd); //run stasm command from shell
+ 
+    echo "    ";
+
+    echo "Res: " .$shell_output;
+   
+    /*if(file_exists($point_folder . $pt_name)){
+      $json=file_get_contents($point_folder . $pt_name);
+      $data=json_decode($json,TRUE);
+      var_dump($data);
+    }else{
+      echo "The file " .$point_folder . $pt_name ." does not exist";
+    }*/
+         
+  //  }
+?>

@@ -1,0 +1,47 @@
+[2014/03/13 04:04:40]output:
+[2014/03/13 04:04:40]file IMG_20140313_160424.jpg NOT exists
+[2014/03/13 04:04:41]output:
+[2014/03/13 04:04:41]file IMG_20140313_160424.jpg NOT exists
+[2014/03/13 04:09:19]file IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:09:20]file IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:10:42]file IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:10:43]file IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:13:26]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:13:27]file IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:14:53]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:14:54]file IMG_20140313_160902.jpg NOT exists
+[2014/03/13 04:17:21]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_161702.jpg NOT exists
+[2014/03/13 04:17:22]file IMG_20140313_161702.jpg NOT exists
+[2014/03/13 04:22:20]file IMG_20140313_161702.jpg NOT exists
+[2014/03/13 04:22:20]IMG_20140313_161702.jpg file exists
+[2014/03/13 04:23:53]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_162337.jpg NOT exists
+[2014/03/13 04:23:54]file IMG_20140313_162337.jpg NOT exists
+[2014/03/13 04:25:25]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_162337.jpg NOT exists
+[2014/03/13 04:25:25]file IMG_20140313_162337.jpg NOT exists
+[2014/03/13 04:28:05]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_162748.jpg NOT exists
+[2014/03/13 04:28:06]file IMG_20140313_162748.jpg NOT exists
+[2014/03/13 04:29:23]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_162906.jpg NOT exists
+[2014/03/13 04:29:24]file IMG_20140313_162906.jpg NOT exists
+[2014/03/13 04:36:37]IMG_20140313_162906.jpg file exists
+[2014/03/13 04:36:38]file IMG_20140313_162906.jpg NOT exists
+[2014/03/13 04:38:29]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_163812.jpg NOT exists
+[2014/03/13 04:38:29]file IMG_20140313_163812.jpg NOT exists
+[2014/03/13 04:39:38]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_163920.jpg NOT exists
+[2014/03/13 04:39:38]file IMG_20140313_163920.jpg NOT exists
+[2014/03/13 04:40:19]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_163958.jpg NOT exists
+[2014/03/13 04:40:19]file IMG_20140313_163958.jpg NOT exists
+[2014/03/13 04:42:09]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_164144.jpg NOT exists
+[2014/03/13 04:42:09]file IMG_20140313_164144.jpg NOT exists
+[2014/03/13 04:44:50]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_164432.jpg NOT exists
+[2014/03/13 04:44:50]file IMG_20140313_164432.jpg NOT exists
+[2014/03/13 04:46:35]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_164618.jpg NOT exists
+[2014/03/13 04:46:36]file IMG_20140313_164618.jpg NOT exists
+[2014/03/18 12:17:00] file exists
+[2014/03/18 12:17:00] file exists
+[2014/03/18 12:17:01]output:
+[2014/03/18 12:17:01] file exists
+[2014/03/18 12:17:01]output:
+[2014/03/18 12:17:01] file exists
+[2014/03/18 12:17:01] file exists
+[2014/03/19 04:31:17]getDetected.php: file server_dev/data/stasm_images/IMG_20140319_163033.jpg NOT exists
+[2014/03/19 04:33:01]getDetected.php: file server_dev/data/stasm_images/IMG_20140319_163033.jpg NOT exists

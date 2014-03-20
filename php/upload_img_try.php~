@@ -1,0 +1,68 @@
+<?php
+ //log function
+        function logFile($filename,$msg){
+	$fd = fopen($filename,"a");
+	$str = "[".date("Y/m/d h:i:s",time())."]".$msg;
+	fwrite($fd, $str."\n");
+	fclose($fd);
+        }
+
+  $point_folder="/var/www/php/server_dev/data/stasm_points/";
+  $o_image_folder="/var/www/php/server_dev/data/stasm_images/";
+  $i_image_folder="/var/www/php/server_dev/data/upload_images/";
+  $pt_name=$name. ".txt";
+  $o_img_name=$name . ".jpg";
+  $stasm_folder="/var/www/php/server_dev/stasm/Debug/";
+
+  $folder1='/var/www/php/server_dev/data/detected_images/';
+  $folder2='/var/www/php/server_dev/data/crop_images/';
+
+  //Get Uploaded Image and Save to the floder
+  $file_path = $i_image_folder;  
+  $file_path = $file_path . basename( $_FILES['uploaded_file']['name']);
+  //upload success
+  if(move_uploaded_file($_FILES['uploaded_file']['tmp_name'], $file_path)) {
+    //echo "success";
+
+    $name=substr(basename( $_FILES['uploaded_file']['name']),0,-4);
+    $filename=$i_image_folder . $name . '.jpg';
+    //If uploaded images exists, apply face detection 
+    if (file_exists($filename)){
+
+      //detec face rectangle
+      $output = shell_exec('python /var/www/php/server_dev/android/facedetect.py ' .$filename .' ' .$folder1. $name . '.jpg' .' ' .$folder2. $name . '.jpg');
+
+      //face detection command
+      $cmd=$stasm_folder ."stasm "  .$filename . " " . $point_folder . $pt_name . " " . $o_image_folder . $o_img_name ." " . $stasm_folder . "res/data/";
+
+      //run stasm command from shell
+      $shell_output = shell_exec($cmd); 
+      
+      //face detected successed
+      if(file_exists($point_folder . $pt_name)){
+        $json=file_get_contents($point_folder . $pt_name);
+        $json=substr($json,0,-1).',"rectangle":'.$output."}";
+
+        //$data=json_decode($json,TRUE);
+        //var_dump($data);
+        //header('content-type: application/json');
+        //echo (json_encode($json));
+        echo $json;
+      }else{
+        echo "The file " .$point_folder . $pt_name ." does not exist";
+      }         	
+    }else{
+      echo "The file "  .$name. ".jpg does not exist";
+    }  
+  }else{ //$_FILE is empty
+    echo "Perform code for page without POST data.";
+  }
+    
+
+
+
+ 	
+  
+   
+      
+?>
