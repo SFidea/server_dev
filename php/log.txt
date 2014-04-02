@@ -45,3 +45,75 @@
 [2014/03/18 12:17:01] file exists
 [2014/03/19 04:31:17]getDetected.php: file server_dev/data/stasm_images/IMG_20140319_163033.jpg NOT exists
 [2014/03/19 04:33:01]getDetected.php: file server_dev/data/stasm_images/IMG_20140319_163033.jpg NOT exists
+[2014/03/21 10:42:30]getDetected.php: file server_dev/data/stasm_images/IMG_20140321_104002.jpg NOT exists
+[2014/03/21 10:42:31]IMG_20140321_104002.jpg file exists
+[2014/03/25 12:15:36] file exists
+[2014/03/25 12:15:36] file exists
+[2014/03/25 12:15:37] file exists
+[2014/03/25 12:15:38]output:
+[2014/03/25 12:15:38] file exists
+[2014/03/25 12:15:38]output:
+[2014/03/25 12:15:38] file exists
+[2014/03/31 03:48:26]getDetected.php: file server_dev/data/stasm_images/1_img.jpg" NOT exists
+[2014/03/31 03:49:22]getDetected.php: file /server_dev/data/stasm_images/1_img.jpg" NOT exists
+[2014/03/31 03:49:59]getDetected.php: file /var/www/php/server_dev/data/stasm_images/1_img.jpg" NOT exists
+[2014/03/31 03:50:40]getDetected.php: file /var/www/php/server_dev/data/stasm_images/testface.jpg" NOT exists
+[2014/03/31 03:50:53]getDetected.php: file server_dev/data/stasm_images/testface.jpg" NOT exists
+[2014/03/31 03:53:01]computeBMI.php: file server_dev/data/stasm_images/testface.jpg" NOT exists
+[2014/03/31 03:53:12]computeBMI.php: file server_dev/data/stasm_images/testface.jpg" NOT exists
+[2014/03/31 03:53:38]computeBMI.php: file server_dev/data/stasm_images/testface.jpg" NOT exists
+[2014/03/31 03:55:51]computeBMI.php: file server_dev/android/return.jpg" NOT exists
+[2014/03/31 03:57:09]return.jpg file exists
+[2014/03/31 03:57:44]computeBMI.php: file server_dev/data/stasm_images/testface.jpg. NOT exists
+[2014/03/31 03:57:48]testface.jpg file exists
+[2014/03/31 04:14:59]testface.jpg file exists
+[2014/03/31 04:15:13]testface.jpg file exists
+[2014/03/31 04:15:37]testface.jpg file exists
+[2014/03/31 04:15:55]testface.jpg file exists
+[2014/03/31 04:17:02]testface.jpg file exists
+[2014/03/31 04:17:45]testface.jpg file exists
+[2014/03/31 04:17:54]testface.jpg file exists
+[2014/03/31 04:18:59]testface.jpg file exists
+[2014/03/31 04:19:43]testface.jpg file exists
+[2014/03/31 04:19:50]testface.jpg file exists
+[2014/03/31 04:20:16]testface.jpg file exists
+[2014/03/31 04:20:40]testface.jpg file exists
+[2014/03/31 04:21:30]testface.jpg file exists
+[2014/03/31 04:21:46]testface.jpg file exists
+[2014/03/31 04:27:46]testface.jpg file exists
+[2014/03/31 04:28:55]testface.jpg file exists
+[2014/03/31 04:29:04]testface.jpg file exists
+[2014/04/01 12:15:41] file exists
+[2014/04/01 12:15:42] file exists
+[2014/04/01 12:15:42] file exists
+[2014/04/01 12:15:42]output:
+[2014/04/01 12:15:42] file exists
+[2014/04/01 12:15:42]output:
+[2014/04/01 12:15:42] file exists
+[2014/04/01 12:15:42] file exists
+[2014/04/01 01:57:16]computeBMI.php: file server_dev/data/stasm_images/IMG_20140401_135547.jpg NOT exists
+[2014/04/01 01:57:35]computeBMI.php: file server_dev/data/stasm_images/IMG_20140401_135547.jpg NOT exists
+[2014/04/01 01:59:06]computeBMI.php: file server_dev/data/stasm_images/IMG_20140401_135726.jpg NOT exists
+[2014/04/01 02:00:48]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:03:17]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:05:22]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:05:28]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:05:36]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:06:46]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:06:52]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:06:57]IMG_20140313_160424.jpg file exists
+[2014/04/01 02:07:36]IMG_20140401_135726.jpg file exists
+[2014/04/01 02:09:17]IMG_20140401_140743.jpg file exists
+[2014/04/01 02:13:03]IMG_20140401_140743.jpg file exists
+[2014/04/01 02:39:02] file exists
+[2014/04/01 02:52:56]IMG_20140401_145109.jpg file exists
+[2014/04/02 03:38:35]
+[2014/04/02 03:52:47]
+[2014/04/02 03:53:20]
+[2014/04/02 03:55:09]
+[2014/04/02 03:59:07]Array
+[2014/04/02 03:59:07]{"gender":"male","image":"","race":"Asian","name":"adada","age":"0"}
+[2014/04/02 04:01:22]{"gender":"male","image":"","race":"Asian","name":"adada","age":"0"}
+[2014/04/02 05:04:08]/var/www/php/server_dev/data/register_images/jkgjkgjkdfdg/IMG_20140402_170408.jpg
+[2014/04/02 05:04:27]/var/www/php/server_dev/data/register_images/jkgjkgjkdfdg/IMG_20140402_170427.jpg
+[2014/04/02 05:06:58]folder not exists: jkgjkgjkdfdg
