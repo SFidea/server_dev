@@ -36,6 +36,7 @@
 [2014/03/13 04:44:50]file IMG_20140313_164432.jpg NOT exists
 [2014/03/13 04:46:35]getDetected.php: file server_dev/data/stasm_images/IMG_20140313_164618.jpg NOT exists
 [2014/03/13 04:46:36]file IMG_20140313_164618.jpg NOT exists
+<<<<<<< HEAD
 [2014/03/18 12:17:00] file exists
 [2014/03/18 12:17:00] file exists
 [2014/03/18 12:17:01]output:
@@ -117,3 +118,5 @@
 [2014/04/02 05:04:08]/var/www/php/server_dev/data/register_images/jkgjkgjkdfdg/IMG_20140402_170408.jpg
 [2014/04/02 05:04:27]/var/www/php/server_dev/data/register_images/jkgjkgjkdfdg/IMG_20140402_170427.jpg
 [2014/04/02 05:06:58]folder not exists: jkgjkgjkdfdg
+=======
+>>>>>>> cedfa432ede6f40ea9e943409ec0502900abc26f

@@ -21,9 +21,14 @@ if (!empty($_GET)){
       //$data=json_decode($json,TRUE);
       //var_dump($data);
 
+<<<<<<< HEAD
       //header('content-type: application/json');
       //echo (json_encode($json));
       echo $json;
+=======
+      header('content-type: application/json');
+      echo (json_encode($json));
+>>>>>>> cedfa432ede6f40ea9e943409ec0502900abc26f
     }else{
       echo "The file " .$point_folder . $pt_name ." does not exist";
     }

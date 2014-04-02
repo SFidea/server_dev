@@ -14,7 +14,11 @@
         $folder3='server_dev/data/mesh_images/';
         $in_folder='server_dev/data/upload_images/';
    
+<<<<<<< HEAD
         echo 'python /var/www/php/server_dev/android/facedetect.py ' .$in_folder. $filename .' ' .$folder1. $filename .' ' .$folder2. $filename .' det';  
+=======
+          
+>>>>>>> cedfa432ede6f40ea9e943409ec0502900abc26f
         $output = shell_exec('python /var/www/php/server_dev/android/facedetect.py ' .$in_folder. $filename .' ' .$folder1. $filename .' ' .$folder2. $filename .' det');
         logfile('log.txt','output:' .$output);
                 

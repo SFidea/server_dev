@@ -10,8 +10,11 @@ if (!empty($_GET)){
   $stasm_folder="/var/www/php/server_dev/stasm/Debug/";
   $filename=$i_image_folder . $name . '.jpg';
   
+<<<<<<< HEAD
 echo $name;
 
+=======
+>>>>>>> cedfa432ede6f40ea9e943409ec0502900abc26f
   if (file_exists($filename)){
     $cmd=$stasm_folder ."stasm "  .$filename . " " . $point_folder . $pt_name . " " . $o_image_folder . $o_img_name ." " . $stasm_folder . "res/data/";
 
@@ -23,7 +26,11 @@ echo $name;
       //$data=json_decode($json,TRUE);
       //var_dump($data);
 
+<<<<<<< HEAD
       //header('content-type: application/json');
+=======
+      header('content-type: application/json');
+>>>>>>> cedfa432ede6f40ea9e943409ec0502900abc26f
       //echo (json_encode($json));
       echo $json;
     }else{
